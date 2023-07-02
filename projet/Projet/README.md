@@ -1,6 +1,6 @@
 # Complète l'instance EC2
 
-La configuration dans ce répertoire crée des instances EC2 avec différents ensembles d'arguments (avec Elastic IP, avec l'interface réseau attachée, avec les spécifications de crédit).
+La configuration dans ce répertoire crée des instances EC2 avec différents ensembles d'arguments (avec Elastic IP, avec l'interface réseau attachée, avec modification du volume ...).
 
 ## Utilisation
 
